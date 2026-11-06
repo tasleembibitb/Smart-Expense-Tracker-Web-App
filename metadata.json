@@ -1,0 +1,6 @@
+{
+  "name": "Smart Expense Tracker - by Tasleem Bibi",
+  "description": "Smart Expense Tracker for students and individuals with interactive Canvas bar charts, category analysis, monthly filtering, search, sorting, localStorage persistence, and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
